@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\bin\Debug\net6.0\Circle Tester TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\bin\Debug\net6.0\Circle Tester TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\bin\Debug\net6.0\Circle Tester TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\bin\Debug\net6.0\Circle Tester TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\bin\Debug\net6.0\Circle Tester TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\refint\Circle Tester TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\Circle Tester TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Circle Tester TA\Circle Tester TA\obj\Debug\net6.0\ref\Circle Tester TA.dll
